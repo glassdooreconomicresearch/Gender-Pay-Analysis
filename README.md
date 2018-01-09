@@ -1,4 +1,4 @@
-###How to Analyze Your Gender Pay Gap: An Employer’s Guide
+# How to Analyze Your Gender Pay Gap: An Employer’s Guide
 
 According to a recent Glassdoor survey, more than two-thirds (67 percent) of U.S. employees say they would not apply for jobs at employers where they believe a gender pay gap exists.[1] Today, the gender pay gap is more than a social or legal issue. It’s an issue that can affect the ability of employers to attract and retain talent.
 
@@ -8,4 +8,4 @@ In this guide, we provide a technical step-by-step guide for how to analyze your
 
 Our goal is to arm HR practitioners with the basic tools they’ll need to perform their own internal gender pay audit, without the need to rely on expensive outside consultants and with limited support from technical data science staff. By making it easy for companies to study their gender pay gaps — and share the results with employees — we believe we can make significant progress toward better gender pay fairness in today’s labor market.
 
-https://www.glassdoor.com/research/studies/how-to-analyze-gender-pay-gap-employers-guide/
+[See original blog post here](https://www.glassdoor.com/research/studies/how-to-analyze-gender-pay-gap-employers-guide/)
