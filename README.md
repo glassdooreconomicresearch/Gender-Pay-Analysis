@@ -8,4 +8,8 @@ In this guide, we provide a technical step-by-step guide for how to analyze your
 
 Our goal is to arm HR practitioners with the basic tools they’ll need to perform their own internal gender pay audit, without the need to rely on expensive outside consultants and with limited support from technical data science staff. By making it easy for companies to study their gender pay gaps — and share the results with employees — we believe we can make significant progress toward better gender pay fairness in today’s labor market.
 
+
 [See original blog post here](https://www.glassdoor.com/research/studies/how-to-analyze-gender-pay-gap-employers-guide/)
+
+
+[1] “Global Gender Pay Gap Survey” (February 2016), Glassdoor. Available at https://www.glassdoor.com/press/equal-pay-equal-work-glassdoor-survey-finds-perceptions-dont-match-reality-7-countries-majority-employed-adults-men-women-company-paid-equally/.
